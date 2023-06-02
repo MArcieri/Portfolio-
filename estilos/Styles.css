@@ -123,7 +123,7 @@ body {
 .rodape{
     color: var(--cor-secundaria);
     background-color: var(--cor-terciaria);
-    padding: 1.33rem;
+    padding: 1rem;
     text-align: center;
     font-family: var(--font-secundaria);
     font-weight: 400;
@@ -132,7 +132,7 @@ body {
 .Foto{
     border: 2px solid var(--cor-terciaria);
     padding: 1rem;
-    border-radius: 8% 16% 8% 16%;
+    border-radius: 10% 16% 10% 16%;
     width: 50%;
 }
 
